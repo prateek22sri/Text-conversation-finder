@@ -1,5 +1,4 @@
 # Advanced Natural Language Processing #
-## Assignment 3 ##
 
 * The project contains two pieces of fiction:
     + A Christmas Carol by Charles Dickens
